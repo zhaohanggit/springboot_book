@@ -1,14 +1,25 @@
 
-#### 介绍
-SpringBoot2实战之旅源码
-
-
 #### 项目介绍
 SpringBoot实战之旅---书籍配套源码
 
-#### 书籍目录
+#### 书籍介绍
 
-目    录
+本书内容共分为14章，开发工具使用IntelliJ IDEA，Spring Boot版本为2.0.3，各章节内容说明如下：
+* 第1章介绍Spring Boot框架的特点以及学习它的重要性，最后列出Spring Boot的历史版本，让读者对Spring Boot有一个大致的了解。
+* 第2章介绍如何搭建Spring Boot的开发环境，通过使用IntelliJ IDEA构建Spring Boot项目，并且对Spring Boot项目的基础结构进行介绍。
+* 第3章介绍如何使用Spring Boot开发Web应用，了解Spring MVC和Spring Web Flux的不同，最后学习Spring Boot的一些Web模板框架，让读者可以对Spring Boot开发Web应用游刃有余。
+* 第4章和第5章都是基于Spring Boot对数据库的使用进行学习。其中，第4章从Spring Boot使用各种数据库的依赖和配置开始介绍，然后介绍当今Java语言流行的ORM框架的使用，最后学习Spring Boot使用Druid数据库连接池。第5章介绍Spring Boot常用缓存框架，最后对Redis和Memcached进行比较，让读者选择缓存时有一定的基础。
+* 第6章介绍Spring Boot对几种常用日志框架的使用，最后介绍分布式情况下如何使用ELK进行日志收集。
+* 第7章介绍当今比较常用的两种安全框架，并且使用详细的案例对二者进行运用。
+* 第8章介绍Spring Boot如何进行监控，涉及当今Spring Boot框架常用的监控，使读者对Spring Boot的运行状态更加了解。
+* 第9章介绍Spring Boot如何使用消息队列，分别从RabbitMQ、Kafka和RocketMQ的使用实例进行介绍，最后对三者进行比较，让读者在选择消息队列时有一定的借鉴。
+* 第10章对Spring Boot的两大常用搜索框架进行详细的介绍，从普通增、删、改、查到复杂查询，让读者使用搜索框架时不再茫然。
+* 第11章介绍使用Spring Boot时的一些小技巧，比如启动Banner、Lombok、邮件发送、事务、异常等。虽然知识略微零散，但是都是实用的技巧。
+* 第12章介绍Spring Boot的多种部署方式，让读者可以根据实际情况部署自己的应用程序。
+* 第13章和第14章分别使用博客系统和博客后台系统对Spring Boot的使用进行综合实战，这两个实战案例是对本书内容的总结。
+
+
+#### 书籍目录
 
 第1章  Spring Boot概述   
 1.1  SpringBoot简介   
@@ -336,8 +347,8 @@ SpringBoot实战之旅---书籍配套源码
 14.7.2  文章管理      
 14.8  辅助功能      
 14.8.1  拦截器      
-14.8.2  定时器
-14.8.3  认证和授权   
+14.8.2  定时器   
+14.8.3  认证和授权      
 14.8.4  工具类   
 14.8.5  初始化方法   
 14.9  小结   
