@@ -1,5 +1,6 @@
 
 #### 项目介绍
+
 SpringBoot实战之旅---书籍配套源码
 
 #### 书籍介绍
@@ -17,6 +18,7 @@ SpringBoot实战之旅---书籍配套源码
 * 第11章介绍使用Spring Boot时的一些小技巧，比如启动Banner、Lombok、邮件发送、事务、异常等。虽然知识略微零散，但是都是实用的技巧。
 * 第12章介绍Spring Boot的多种部署方式，让读者可以根据实际情况部署自己的应用程序。
 * 第13章和第14章分别使用博客系统和博客后台系统对Spring Boot的使用进行综合实战，这两个实战案例是对本书内容的总结。
+
 
 
 #### 书籍目录
@@ -354,8 +356,74 @@ SpringBoot实战之旅---书籍配套源码
 14.9  小结   
 
 
+#### 项目目录
 
-#### 工程目录
+chapter是章节，chapter3-5-1表示书籍目录3.5.1  使用Thymeleaf对应示例代码，
+（其中blogmodel项目为第十三章基础代码，blogmgrmodel项目为第十四章基础代码）：
+
+
+```
+├── blogmgrmodel
+├── blogmodel
+├── chapter10-1
+├── chapter10-2
+├── chapter11-1
+├── chapter11-10
+├── chapter11-2
+├── chapter11-3
+├── chapter11-4
+├── chapter11-5
+├── chapter11-6
+├── chapter11-7
+├── chapter11-8
+├── chapter11-9
+├── chapter12-4
+├── chapter13
+├── chapter14
+├── chapter3-1
+├── chapter3-2
+├── chapter3-3
+├── chapter3-4
+├── chapter3-5-1
+├── chapter3-5-2
+├── chapter3-5-3
+├── chapter3-6
+├── chapter3-7
+├── chapter3-8
+├── chapter4-2
+├── chapter4-3-8
+├── chapter4-3
+├── chapter4-4-7
+├── chapter4-4-8
+├── chapter4-4-9
+├── chapter4-4
+├── chapter4-5-1
+├── chapter4-5-2
+├── chapter4-6
+├── chapter5-1
+├── chapter5-2
+├── chapter5-3
+├── chapter6-1
+├── chapter6-2
+├── chapter6-3
+├── chapter6-4
+├── chapter7-1
+├── chapter7-2
+├── chapter8-1
+├── chapter8-2
+├── chapter8-3
+├── chapter8-4
+├── chapter8-5
+├── chapter8-6
+├── chapter9-1
+├── chapter9-2
+├── chapter9-3
+```
+
+
+
+#### 书籍购买地址
+
 
 
 
